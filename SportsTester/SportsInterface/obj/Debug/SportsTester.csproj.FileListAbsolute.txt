@@ -1,0 +1,10 @@
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\bin\Debug\SportsInterface.exe.config
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\bin\Debug\SportsInterface.exe
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\bin\Debug\SportsInterface.pdb
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsTester.Form1.resources
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsInterface.Properties.Resources.resources
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsTester.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsTester.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsInterface.exe
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsInterface.pdb
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SportsTester\SportsInterface\obj\Debug\SportsTester.csprojAssemblyReference.cache

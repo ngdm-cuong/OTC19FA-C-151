@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.exe
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\obj\Debug\LinkedListHomeWork.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\obj\Debug\LinkedListHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.exe
+C:\Users\MClumsy_G20\source\repos\LinkedList\LinkedList\obj\Debug\LinkedList.pdb

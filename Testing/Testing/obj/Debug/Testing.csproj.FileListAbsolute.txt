@@ -1,0 +1,14 @@
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\bin\Debug\Testing.exe.config
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\bin\Debug\Testing.exe
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\bin\Debug\Testing.pdb
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\obj\Debug\Testing.exe
+C:\Users\MClumsy_G20\source\repos\Testing\Testing\obj\Debug\Testing.pdb
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\bin\Debug\Testing.exe.config
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\bin\Debug\Testing.exe
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\bin\Debug\Testing.pdb
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\obj\Debug\Testing.csprojAssemblyReference.cache
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\obj\Debug\Testing.csproj.CoreCompileInputs.cache
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\obj\Debug\Testing.exe
+E:\C-Relocation\Desktop\OTC20Spring\OTC19FA-C#151\Testing\Testing\obj\Debug\Testing.pdb

@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\bin\Debug\9EmployeeMgmt1.exe.config
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\bin\Debug\9EmployeeMgmt1.exe
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\bin\Debug\9EmployeeMgmt1.pdb
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\obj\Debug\9EmployeeMgmt1.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\obj\Debug\9EmployeeMgmt1.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\obj\Debug\9EmployeeMgmt1.exe
+C:\Users\MClumsy_G20\source\repos\9EmployeeMgmt1\9EmployeeMgmt1\obj\Debug\9EmployeeMgmt1.pdb

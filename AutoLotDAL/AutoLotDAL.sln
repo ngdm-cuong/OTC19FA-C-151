@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotDAL", "AutoLotDAL\AutoLotDAL.csproj", "{76EBA30B-7574-4562-9746-E0EDC6A31E78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoLotClient", "AutoLotClient\AutoLotClient.csproj", "{8AEA202E-4C42-4279-94B3-E984DF267769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EBA30B-7574-4562-9746-E0EDC6A31E78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AEA202E-4C42-4279-94B3-E984DF267769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AEA202E-4C42-4279-94B3-E984DF267769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AEA202E-4C42-4279-94B3-E984DF267769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AEA202E-4C42-4279-94B3-E984DF267769}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D214DC4-8546-4FA5-9A41-BEF41E4F98C6}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/cn0897437
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = AutoLotClient\\AutoLotClient.csproj
+		SccProjectName1 = AutoLotClient
+		SccLocalPath1 = AutoLotClient
+		SccProjectUniqueName2 = AutoLotDAL\\AutoLotDAL.csproj
+		SccProjectName2 = AutoLotDAL
+		SccLocalPath2 = AutoLotDAL
+	EndGlobalSection
+EndGlobal

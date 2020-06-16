@@ -1,0 +1,9 @@
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\bin\Debug\netstandard2.0\GameApp1.deps.json
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\bin\Debug\netstandard2.0\GameApp1.dll
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\bin\Debug\netstandard2.0\GameApp1.pdb
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.csprojAssemblyReference.cache
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.csproj.CoreCompileInputs.cache
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.AssemblyInfoInputs.cache
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.AssemblyInfo.cs
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.dll
+E:\C-Relocation\Desktop\OTC20Spring\OTC20SP-C#Capstone\G5-CIS151-101\GameApp1\GameApp1\obj\Debug\netstandard2.0\GameApp1.pdb

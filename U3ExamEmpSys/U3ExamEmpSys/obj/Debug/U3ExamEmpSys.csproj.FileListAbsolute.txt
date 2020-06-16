@@ -1,0 +1,10 @@
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.exe.config
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.exe
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\bin\Debug\U3ExamEmpSys.pdb
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.Form1.resources
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.Properties.Resources.resources
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.exe
+C:\Users\MClumsy_G20\source\repos\U3ExamEmpSys\U3ExamEmpSys\obj\Debug\U3ExamEmpSys.pdb

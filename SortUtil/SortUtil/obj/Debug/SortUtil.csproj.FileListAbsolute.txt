@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\bin\Debug\SortUtil.exe.config
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\bin\Debug\SortUtil.exe
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\bin\Debug\SortUtil.pdb
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\obj\Debug\SortUtil.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\obj\Debug\SortUtil.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\obj\Debug\SortUtil.exe
+C:\Users\MClumsy_G20\Source\Workspaces\Workspace\CIS151\SortUtil\SortUtil\obj\Debug\SortUtil.pdb

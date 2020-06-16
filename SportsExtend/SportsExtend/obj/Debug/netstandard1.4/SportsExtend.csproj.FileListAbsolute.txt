@@ -1,0 +1,10 @@
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\bin\Debug\netstandard1.4\SportsExtend.deps.json
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\bin\Debug\netstandard1.4\SportsExtend.dll
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\bin\Debug\netstandard1.4\SportsExtend.pdb
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\bin\Debug\netstandard1.4\SportsBase.dll
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.AssemblyInfo.cs
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.csproj.CopyComplete
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.dll
+C:\Users\MClumsy_G20\source\repos\SportsExtend\SportsExtend\obj\Debug\netstandard1.4\SportsExtend.pdb

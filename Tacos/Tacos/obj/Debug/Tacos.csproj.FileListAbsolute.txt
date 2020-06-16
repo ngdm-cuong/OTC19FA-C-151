@@ -1,0 +1,2 @@
+C:\Users\MClumsy_G20\source\repos\Tacos\Tacos\obj\Debug\Tacos.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Tacos\Tacos\obj\Debug\Tacos.csproj.CoreCompileInputs.cache

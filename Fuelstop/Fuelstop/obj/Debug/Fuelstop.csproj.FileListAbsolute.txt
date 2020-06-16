@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\obj\Debug\Fuelstop.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\obj\Debug\Fuelstop.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\bin\Debug\Fuelstop.exe.config
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\bin\Debug\Fuelstop.exe
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\bin\Debug\Fuelstop.pdb
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\obj\Debug\Fuelstop.exe
+C:\Users\MClumsy_G20\source\repos\Fuelstop\Fuelstop\obj\Debug\Fuelstop.pdb

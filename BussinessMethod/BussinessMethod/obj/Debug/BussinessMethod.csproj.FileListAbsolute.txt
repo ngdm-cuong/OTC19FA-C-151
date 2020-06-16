@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\obj\Debug\BussinessMethod.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\obj\Debug\BussinessMethod.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\bin\Debug\BussinessMethod.exe.config
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\bin\Debug\BussinessMethod.exe
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\bin\Debug\BussinessMethod.pdb
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\obj\Debug\BussinessMethod.exe
+C:\Users\MClumsy_G20\source\repos\BussinessMethod\BussinessMethod\obj\Debug\BussinessMethod.pdb

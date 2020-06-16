@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\bin\Debug\Repl.exe.config
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\bin\Debug\Repl.exe
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\bin\Debug\Repl.pdb
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\obj\Debug\Repl.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\obj\Debug\Repl.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\obj\Debug\Repl.exe
+C:\Users\MClumsy_G20\source\repos\Repl\Repl\obj\Debug\Repl.pdb

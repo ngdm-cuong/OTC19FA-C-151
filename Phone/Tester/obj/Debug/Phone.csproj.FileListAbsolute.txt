@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\obj\Debug\Phone.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\obj\Debug\Phone.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\bin\Debug\Tester.exe.config
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\bin\Debug\Tester.exe
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\bin\Debug\Tester.pdb
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\obj\Debug\Tester.exe
+C:\Users\MClumsy_G20\source\repos\Phone\Tester\obj\Debug\Tester.pdb

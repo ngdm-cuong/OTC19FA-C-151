@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11EmployeePart2", "11EmployeePart2\11EmployeePart2.csproj", "{A15AABF3-A5B4-430F-8F07-8CB747FAC55B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A15AABF3-A5B4-430F-8F07-8CB747FAC55B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15AABF3-A5B4-430F-8F07-8CB747FAC55B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15AABF3-A5B4-430F-8F07-8CB747FAC55B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15AABF3-A5B4-430F-8F07-8CB747FAC55B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4544A80-F37D-49C6-8D05-368B36D24ACC}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/cn0897437
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = 11EmployeePart2\\11EmployeePart2.csproj
+		SccProjectName1 = 11EmployeePart2
+		SccLocalPath1 = 11EmployeePart2
+	EndGlobalSection
+EndGlobal

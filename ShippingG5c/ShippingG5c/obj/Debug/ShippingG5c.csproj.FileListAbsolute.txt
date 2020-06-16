@@ -1,0 +1,12 @@
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.Form1.resources
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.Properties.Resources.resources
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\bin\Debug\ShippingG5c.exe.config
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\bin\Debug\ShippingG5c.exe
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\bin\Debug\ShippingG5c.pdb
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.exe
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.pdb
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.PrintInvoice.resources
+C:\Users\MClumsy_G20\Source\Workspaces\G5-CIS151-101\ShippingG5c\ShippingG5c\obj\Debug\ShippingG5c.PrintLabel.resources

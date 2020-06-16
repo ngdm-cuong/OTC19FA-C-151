@@ -1,0 +1,8 @@
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\bin\Debug\netstandard1.4\SportsBase.deps.json
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\obj\Debug\netstandard1.4\SportsBase.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\obj\Debug\netstandard1.4\SportsBase.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\obj\Debug\netstandard1.4\SportsBase.AssemblyInfo.cs
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\bin\Debug\netstandard1.4\SportsBase.dll
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\bin\Debug\netstandard1.4\SportsBase.pdb
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\obj\Debug\netstandard1.4\SportsBase.dll
+C:\Users\MClumsy_G20\source\repos\SportsBase\SportsBase\obj\Debug\netstandard1.4\SportsBase.pdb

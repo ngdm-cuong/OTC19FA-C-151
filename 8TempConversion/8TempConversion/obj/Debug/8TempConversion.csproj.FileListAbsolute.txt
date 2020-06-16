@@ -1,0 +1,10 @@
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\bin\Debug\8TempConversion.exe.config
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\bin\Debug\8TempConversion.exe
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\bin\Debug\8TempConversion.pdb
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\8TempConversion.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\_8TempConversion.Form1.resources
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\_8TempConversion.Properties.Resources.resources
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\8TempConversion.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\8TempConversion.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\8TempConversion.exe
+C:\Users\MClumsy_G20\source\repos\8TempConversion\8TempConversion\obj\Debug\8TempConversion.pdb

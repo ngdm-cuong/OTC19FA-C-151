@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\bin\Debug\7-1BucketSort.exe.config
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\bin\Debug\7-1BucketSort.exe
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\bin\Debug\7-1BucketSort.pdb
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\obj\Debug\7-1BucketSort.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\obj\Debug\7-1BucketSort.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\obj\Debug\7-1BucketSort.exe
+C:\Users\MClumsy_G20\source\repos\7-1BucketSort\7-1BucketSort\obj\Debug\7-1BucketSort.pdb

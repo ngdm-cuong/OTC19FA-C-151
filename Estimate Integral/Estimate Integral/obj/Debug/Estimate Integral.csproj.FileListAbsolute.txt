@@ -1,0 +1,7 @@
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\obj\Debug\Estimate Integral.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\obj\Debug\Estimate Integral.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\bin\Debug\Estimate Integral.exe.config
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\bin\Debug\Estimate Integral.exe
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\bin\Debug\Estimate Integral.pdb
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\obj\Debug\Estimate Integral.exe
+C:\Users\MClumsy_G20\source\repos\Estimate Integral\Estimate Integral\obj\Debug\Estimate Integral.pdb

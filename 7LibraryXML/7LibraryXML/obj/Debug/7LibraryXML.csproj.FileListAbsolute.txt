@@ -1,0 +1,10 @@
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csprojAssemblyReference.cache
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\_7LibraryXML.Form1.resources
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\_7LibraryXML.Properties.Resources.resources
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csproj.GenerateResource.cache
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.csproj.CoreCompileInputs.cache
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.exe.config
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.exe
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\bin\Debug\7LibraryXML.pdb
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.exe
+C:\Users\MClumsy_G20\source\repos\7LibraryXML\7LibraryXML\obj\Debug\7LibraryXML.pdb

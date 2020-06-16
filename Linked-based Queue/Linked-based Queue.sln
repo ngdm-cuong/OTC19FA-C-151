@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linked-based Queue", "Linked-based Queue\Linked-based Queue.csproj", "{773F530A-9D24-4101-8A27-D4CBFB47CEE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{773F530A-9D24-4101-8A27-D4CBFB47CEE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{773F530A-9D24-4101-8A27-D4CBFB47CEE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{773F530A-9D24-4101-8A27-D4CBFB47CEE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{773F530A-9D24-4101-8A27-D4CBFB47CEE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8649720-579D-47C3-AFB3-705C66B77C03}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 2
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://cisteam.otc.edu/tfs/cn0897437
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Linked-based\u0020Queue\\Linked-based\u0020Queue.csproj
+		SccProjectName1 = Linked-based\u0020Queue
+		SccLocalPath1 = Linked-based\u0020Queue
+	EndGlobalSection
+EndGlobal

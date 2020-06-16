@@ -1,0 +1,74 @@
+﻿using System;
+using SportsBase;
+namespace SportsExtend
+{
+    public class Soccer : Team
+
+    {
+        #region Private dada fields (instance variables)
+        private string fieldLocation;
+        private string typeOfShose;
+        private string coachesName;
+        private string starPlayers;
+        private int practiceTime;
+
+
+        #endregion
+
+        #region Public Properties
+        public string FieldLocation { get => fieldLocation; set => fieldLocation = value; }
+        public string TypeOfShose { get => typeOfShose; set => typeOfShose = value; }
+        public string CoachesName { get => coachesName; set => coachesName = value; }
+        public string StarPlayers { get => starPlayers; set => starPlayers = value; }
+        public int PracticeTime { get => practiceTime; set => practiceTime = value; }
+
+
+        #endregion
+        #region Constructors 
+
+        public Soccer()
+        {
+            this.fieldLocation = "Field location";
+            this.typeOfShose = "Type of shose";
+        }
+
+        public Soccer(global::System.String name, global::System.Int32 numberOfPlayers, global::System.Int32 numberOfcoaches, string fieldLocation, string restringRacketGuy, string coachesName, string starPlayers, int practiceTime)
+            : base(name, numberOfPlayers, numberOfcoaches)
+        {
+            this.fieldLocation = fieldLocation;
+            this.typeOfShose = typeOfShose;
+            this.coachesName = coachesName;
+            this.starPlayers = starPlayers;
+            this.practiceTime = practiceTime;
+        }
+
+
+        #endregion
+        #region Methods
+        /// <summary>
+        /// Display the star players of the team
+        /// </summary>
+        /// <returns></returns>
+        public override string StarPlayer()
+        {
+            return $"Star Players: {starPlayers}";
+        }//End of StarPlayer
+        /// <summary>
+        /// Return a string value of an instance
+        /// </summary>
+        /// <returns></returns>
+        public override string ToString()
+        {
+            string returnString = base.ToString();
+            returnString += $"Coaches Name: {coachesName}";
+            returnString += $"Practicing frequencies: {practiceTime} per Week";
+            returnString += $"Type of Shoose: {typeOfShose}";
+            return returnString;
+        }// End of ToString
+
+
+        #endregion
+
+    }// End of class
+
+}// END OF namespace
